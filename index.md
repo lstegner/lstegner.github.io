@@ -1,123 +1,31 @@
----
-layout: default
----
+I am a PhD student at the University of Wisconsin-Madison in the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/). I am broadly interested in robot control and programming interfaces, studying human needs, and developing robot applications that meet them. My current research applies these ideas to the domain of care robots to assist older adults.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Before grad school, I earned my Bachelor of Science in Electrical Engineering from the University of Cincinnati in 2019. Part of our degree program included five co-operative education experiences, exposing me to a variety of industry and research positions.
 
-[Link to another page](./another-page.html).
+In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institute for Software Systems, supervised by Aman Mathur and Dr. Rupak Majumdar. We developed [Paracosm](https://library.oapen.org/bitstream/handle/20.500.12657/48217/9783030715007.pdf?sequence=1#page=184), a test framework for autonomous driving simulations, published at FASE 2021.
 
-There should be whitespace between paragraphs.
+***
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### News:
+* Jun 2023 - Interning for the summer at the Naval Research Laboratory in Washington, DC, working with Dr. Laura Hiatt 
+* May 2023 - Summer speaker series at [MIRRORLab](https://mirrorlab.mines.edu/) (virtual)
+* Apr 2023 - [Situated Participatory Design](https://dl.acm.org/doi/abs/10.1145/3544548.3580893) Paper presented at CHI'23.
+* Apr 2023 - Invited talk at the National Robotarium and Edinburgh Centre for Robotics in Edinburgh, Scotland
+* [See all](./all-news.html)
 
-# Header 1
+***
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Research Projects
 
-## Header 2
+### Assistive Robots for Older Adults
+The combination of a rapidly aging population and growing shortage of caregivers had led to the rise in interest for assistive robots to help care for older adults and other vulnerable populations. This work seeks to understand how care robots can integrate into existing caregiving ecosystems. By understanding the needs and challenges of the end users, we can design, implement, and deploy more robust systems that have real-world use and validity.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Learn more](./care-robots.html)
 
 
-### Definition lists can be used with HTML syntax.
+***
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Novel Programming Interfaces
+As robots become more commonly used in everyday scenarios, a wide range of individuals will need appropriate tools to easily and efficiently create programs that specify what their robot should do or how it should behave. This work seeks to make programming human robot interactions more natural for non-roboticists by employing programming language techniques, such as program synthesis, to translate multimodal user input into a full robot program.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Learn more](./other-systems.html)
