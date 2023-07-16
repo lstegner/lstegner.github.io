@@ -17,6 +17,7 @@
   <body>
     <div class="wrapper">
       <header>
+
         {% if site.logo %}
           <img class="center_img" style="padding-bottom: 22px;" src="{{site.logo | relative_url}}" alt="headshot" />
         {% endif %}
@@ -81,6 +82,9 @@
 
       </section>
       <footer>
+
+        <hr>
+
         {% if site.bottom_img %}
           <img class="center_img" style="height: 50px;" src="{{site.bottom_img | relative_url}}" alt="robot" />
         {% endif %}
