@@ -13,7 +13,7 @@ As robots become more commonly used in everyday scenarios, a wide range of indiv
 
 ### [Figaro: A Tabletop Authoring Environment for Human-Robot Interaction](https://dl.acm.org/doi/abs/10.1145/3411764.3446864)
 
-| ![Figaro](./assets/img/figaro-figures.jpeg) | <p style="margin:0;"><em>CHI 2021</em> <i class="fa fa-clock-o smaller_font" aria-hidden="true"><a href="https://par.nsf.gov/servlets/purl/10210854" target="_blank" class="link_grey">PDF</a> | <a href="https://www.youtube.com/watch?v=bQP1GYbda5I" target="_blank" class="link_grey">Video</a> | <a href="https://www.youtube.com/watch?v=7ox53gOHx4I&t=2s" target="_blank" class="link_grey">Presentation</a> | <a href="https://github.com/Wisc-HCI/Figaro" target="_blank" class="link_grey">Github</a></i></p> |
+| ![Figaro](./assets/img/figaro-figures.jpeg) | CHI 2021 <a href="https://par.nsf.gov/servlets/purl/10210854" target="_blank" class="link_grey">PDF</a> <a href="https://www.youtube.com/watch?v=bQP1GYbda5I" target="_blank" class="link_grey">Video</a> <a href="https://www.youtube.com/watch?v=7ox53gOHx4I&t=2s" target="_blank" class="link_grey">Presentation</a> <a href="https://github.com/Wisc-HCI/Figaro" target="_blank" class="link_grey">Github</a> |
 
 Figaro is a tabletop authoring environment where demonstrators use instrumented figurines to play out scenes of human-robot interactions. The positions, movements, behaviors, and speech of the figurines is recorded for each scene. Figaro then synthesizes a full human-robot interaction program that can be executed on a robot.
 
