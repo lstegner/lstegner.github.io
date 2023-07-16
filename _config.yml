@@ -1,9 +1,24 @@
 title: Laura Stegner
-logo: /assets/img/stegner-headshot.jpeg
-description: Academic website for Laura Stegner.
+logo: /assets/img/stegner-headshot-circle.png
+bottom_img: /assets/img/favicon.ico
+description: PhD student studying Human-Robot Interaction
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Site Author
+author:
+  name             : "Laura Stegner"
+  location         : "University of Wisconsin–Madison"
+  email            : "stegner [at] wisc [dot] edu"
+  cv               : "assets/files/stegner-CV.pdf"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=tyrrNiAAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Laura-Stegner-2"
+  github           : "lstegner"
+  linkedin         : "laura-stegner"
+  orcid            : "https://orcid.org/0000-0003-4496-0727"
+  youtube          :
+  twitter          : "lmstegner"
