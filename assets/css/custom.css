@@ -63,6 +63,6 @@
     }
   }
 
-  p, ul, ol, table, pre, dl {
+  .less_space {
     margin: 0 0 10px;
   }

@@ -22,19 +22,19 @@
           <img class="center_img" style="padding-bottom: 22px;" src="{{site.logo | relative_url}}" alt="headshot" />
         {% endif %}
 
-        <h1 class="center_txt"><a href="{{ "/" | absolute_url }}" class="title_color">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 class="center_txt less_space"><a href="{{ "/" | absolute_url }}" class="title_color">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p class="center_txt" >{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="center_txt less_space" >{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.author.location %}
-          <p class="center_txt" style="white-space: break-spaces;"><i class="fa fa-fw fa-map-marker icon" aria-hidden="true"></i> {{ site.author.location }}</p>
-        {% endif %}
-        
         {% if site.author.email %}
-          <p class="center_txt">{{ site.author.email }}</p>
+          <p class="center_txt less_space">{{ site.author.email }}</p>
         {% endif %}
 
-        <p class="center_txt">
+        {% if site.author.cv %}
+          <p class="center_txt"><a href="{{ site.author.cv }}" target="_blank">Download my CV</a></p>
+        {% endif %}
+
+        <p class="center_txt less_space">
           {% if site.author.googlescholar %}
             <a href="{{ site.author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar ai-fw ai-2x icon_color"></i></a>
           {% endif %}
@@ -55,9 +55,10 @@
           {% endif %}
         </p>
 
-        {% if site.author.cv %}
-          <p class="center_txt"><a href="{{ site.author.cv }}" target="_blank">Download my CV</a></p>
+        {% if site.author.location %}
+          <p class="center_txt less_space" style="white-space: break-spaces;"><i class="fa fa-fw fa-map-marker icon" aria-hidden="true"></i> {{ site.author.location }}</p>
         {% endif %}
+      
 
         <!-- {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
