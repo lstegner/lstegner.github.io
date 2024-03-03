@@ -34,10 +34,6 @@
           <p class="center_txt">{{ site.author.email }}</p>
         {% endif %}
 
-        {% if site.author.cv %}
-          <p class="center_txt"><a href="{{ site.author.cv }}" target="_blank">Download my CV</a></p>
-        {% endif %}
-
         <p class="center_txt">
           {% if site.author.googlescholar %}
             <a href="{{ site.author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar ai-fw ai-2x icon_color"></i></a>
@@ -58,6 +54,10 @@
             <a href="https://www.youtube.com/user/{{ site.author.youtube }}" target="_blank"><i class="fab fa-fw fa-youtube ai-2x icon_color" aria-hidden="true"></i></a>
           {% endif %}
         </p>
+
+        {% if site.author.cv %}
+          <p class="center_txt"><a href="{{ site.author.cv }}" target="_blank">Download my CV</a></p>
+        {% endif %}
 
         <!-- {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
