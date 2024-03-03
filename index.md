@@ -1,5 +1,5 @@
 ## About Me
-I am a PhD candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a>. I am broadly interested in robot control and programming interfaces, studying human needs, and developing robot applications that meet them. My current research applies these ideas to the domain of care robots to assist older adults. My primary research venues are HRI
+I am a PhD candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a>. I am broadly interested in robot control and programming interfaces, studying human needs, and developing robot applications that meet them. My current research applies these ideas to the domain of care robots to assist older adults. I publish my work at HRI and HCI (CHI, DIS) venues.
 
 Before grad school, I earned my Bachelor of Science in Electrical Engineering from the University of Cincinnati in 2019. Part of our degree program included five co-operative education experiences, exposing me to a variety of industry and research positions.
 
@@ -24,7 +24,7 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
 </ul>
 <details style="margin-left: 28px;">
 <summary>Older News</summary>
-    <ul>
+    <ul style="margin-left: -28px;>
         <li>
             <strong>Oct 2023</strong> - Visit to <a href="https://intuitivecomputing.github.io/" target="_blank">Intuitive Computing Laboratory</a> at Johns Hopkins University.
         </li>
