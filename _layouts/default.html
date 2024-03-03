@@ -74,6 +74,11 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        {% if site.bottom_img %}
+          <img class="center_img" style="height: 50px;" src="{{site.bottom_img | relative_url}}" alt="robot" />
+        {% endif %}
+        <p class="center_txt"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         
       </header>
       <section>
@@ -83,10 +88,10 @@
       </section>
       <footer>
 
-        {% if site.bottom_img %}
+        <!-- {% if site.bottom_img %}
           <img class="center_img" style="height: 50px;" src="{{site.bottom_img | relative_url}}" alt="robot" />
         {% endif %}
-        <p class="center_txt"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p class="center_txt"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
