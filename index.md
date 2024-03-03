@@ -1,9 +1,9 @@
 ## About Me
-I am a PhD candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a>. I am broadly interested in robot control and programming interfaces, studying human needs, and developing robot applications that meet them. My current research applies these ideas to the domain of care robots to assist older adults.
+I am a PhD candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a>. I am broadly interested in robot control and programming interfaces, studying human needs, and developing robot applications that meet them. My current research applies these ideas to the domain of care robots to assist older adults. My primary research venues are HRI
 
 Before grad school, I earned my Bachelor of Science in Electrical Engineering from the University of Cincinnati in 2019. Part of our degree program included five co-operative education experiences, exposing me to a variety of industry and research positions.
 
-In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institute for Software Systems, supervised by Aman Mathur and Dr. Rupak Majumdar. We developed <a href="https://library.oapen.org/bitstream/handle/20.500.12657/48217/9783030715007.pdf?sequence=1#page=184" target="_blank">Paracosm</a>, a test framework for autonomous driving simulations, published at FASE 2021.
+In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institute for Software Systems in Germany, supervised by Aman Mathur and Dr. Rupak Majumdar. We developed <a href="https://library.oapen.org/bitstream/handle/20.500.12657/48217/9783030715007.pdf?sequence=1#page=184" target="_blank">Paracosm</a>, a test framework for autonomous driving simulations, published at FASE 2021.
 
 ***
 
@@ -22,7 +22,7 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
         <strong>Oct 2023</strong> - Co-organized the <a href="https://sites.google.com/view/aaai-ur-rad-symposium" target="_blank">2023 AAAI Fall Symposium on Unifying Representations for Robot Application Development</a> and presented my <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/27725" target="_blank">work</a>.
     </li>
 </ul>
-<details style="margin-left: 15px;">
+<details style="margin-left: 28px;">
 <summary>Older News</summary>
     <ul>
         <li>
