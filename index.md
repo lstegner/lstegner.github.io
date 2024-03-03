@@ -8,7 +8,7 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
 ***
 
 ### Recent News
-<ul>
+<ul class="less_space">
     <li>
         <strong>Dec 2023</strong> - Our workshop on <a href="https://sites.google.com/wisc.edu/eud4hri" target="_blank">End-User Development for Human-Robot Interaction</a> was accepted to HRI'24.
     </li>
@@ -22,7 +22,7 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
         <strong>Oct 2023</strong> - Co-organized the <a href="https://sites.google.com/view/aaai-ur-rad-symposium" target="_blank">2023 AAAI Fall Symposium on Unifying Representations for Robot Application Development</a> and presented my <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/27725" target="_blank">work</a>.
     </li>
 </ul>
-<details style="margin-left: 28px;">
+<details style="margin-left: 28px;" class="less_space">
 <summary>Older News</summary>
     <ul style="margin-left: -28px;">
         <li>
