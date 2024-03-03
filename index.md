@@ -24,7 +24,7 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
 </ul>
 <details style="margin-left: 28px;">
 <summary>Older News</summary>
-    <ul style="margin-left: -28px;>
+    <ul style="margin-left: -28px;">
         <li>
             <strong>Oct 2023</strong> - Visit to <a href="https://intuitivecomputing.github.io/" target="_blank">Intuitive Computing Laboratory</a> at Johns Hopkins University.
         </li>
