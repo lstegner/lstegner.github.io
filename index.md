@@ -10,21 +10,33 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
 ### Recent News
 <ul class="less_space">
     <li>
-        <strong>Dec 2023</strong> - Our workshop on <a href="https://sites.google.com/wisc.edu/eud4hri" target="_blank">End-User Development for Human-Robot Interaction</a> was accepted to HRI'24.
+        <strong>Jul 2024</strong> - Amazing week as a student volunteer at DIS '24 in Copenhagen: co-organized the <a href="https://sites.google.com/wisc.edu/robocaredesign" target="_blank">RoboCare Design Workshop</a>, co-presented our <a href="https://dl.acm.org/doi/pdf/10.1145/3643834.3660721" target="_blank">evaluation of Tabula</a>, and cheered Yaxin Hu as she presented our <a href="https://dl.acm.org/doi/pdf/10.1145/3643834.3660710" target="_blank">work on designing for remote tele-experience for older adults</a>.
     </li>
     <li>
-        <strong>Nov 2023</strong> - I passed my preliminary exam!
+        <strong>Jun 2024</strong> - Returning to the Naval Research Lab for another internship with Dr. Laura Hiatt!
     </li>
     <li>
-        <strong>Oct 2023</strong> - Visit to <a href="https://thatlab.umd.edu/" target="_blank">The Health, Aging, and Technology (THAT) Lab</a> at University of Maryland.
-    </li>
-    <li>
-        <strong>Oct 2023</strong> - Co-organized the <a href="https://sites.google.com/view/aaai-ur-rad-symposium" target="_blank">2023 AAAI Fall Symposium on Unifying Representations for Robot Application Development</a> and presented my <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/27725" target="_blank">work</a>.
+        <strong>May 2024</strong> - Extremely proud of undergraduate researchers Mary Kristjanson and Shanshan Li for presenting their work at the UW Undergraduate Research Symposium!
     </li>
 </ul>
 <details style="margin-left: 28px;" class="less_space">
 <summary>Older News</summary>
     <ul style="margin-left: -28px;">
+        <li>
+            <strong>May 2024</strong> - Virtual talk at National University of Singapore, hosted by Dr. Harold Soh.
+        </li>
+        <li>
+            <strong>Mar 2024</strong> - Co-organized the <a href="https://sites.google.com/wisc.edu/eud4hri" target="_blank">End-User Development for Human-Robot Interaction</a> workshop at HRI'24.
+        </li>
+        <li>
+            <strong>Nov 2023</strong> - I passed my preliminary exam!
+        </li>
+        <li>
+            <strong>Oct 2023</strong> - Visit to <a href="https://thatlab.umd.edu/" target="_blank">The Health, Aging, and Technology (THAT) Lab</a> at University of Maryland.
+        </li>
+        <li>
+            <strong>Oct 2023</strong> - Co-organized the <a href="https://sites.google.com/view/aaai-ur-rad-symposium" target="_blank">2023 AAAI Fall Symposium on Unifying Representations for Robot Application Development</a> and presented my <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/27725" target="_blank">work</a>.
+        </li>
         <li>
             <strong>Oct 2023</strong> - Visit to <a href="https://intuitivecomputing.github.io/" target="_blank">Intuitive Computing Laboratory</a> at Johns Hopkins University.
         </li>
@@ -65,6 +77,8 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
 
 ## Research Areas
 
+Please refer to <a href="https://scholar.google.com/citations?user=tyrrNiAAAAAJ" target="_blank">my Google Scholar profile</a> for an up-to-date list of all of my publications.
+
 ***
 
 <img class="center_img" style="width: 100%;" src="./assets/img/spd.png" alt="robot" />
@@ -93,6 +107,9 @@ As robots become more commonly used in everyday scenarios, a wide range of indiv
 
 <dl>
 <dt><b>Selected Papers:</b></dt>
+<dt>[DIS '24] <a href="https://dl.acm.org/doi/abs/10.1145/3643834.3660721" target="_blank"><b>Understanding On-the-Fly End-User Robot Programming</b></a></dt>
+<dd><i>Laura Stegner</i>*, Yuna Hwang*, David Porfirio, Bilge Mutlu | * Equal contribution</dd>
+<dd><a href="https://dl.acm.org/doi/pdf/10.1145/3643834.3660721" target="_blank">PDF</a> - <a href="https://youtu.be/_9hkBtgzb4Q" target="_blank">Video</a> - <a href="https://youtu.be/eJIKxKyBGN8" target="_blank">Teaser</a> - <a href="https://osf.io/ps2fw/" target="_blank">OSF</a></dd>
 <dt>[HRI '23] <a href="https://dl.acm.org/doi/abs/10.1145/3568162.3576991" target="_blank"><b>Sketching Robot Programs On the Fly</b></a></dt>
 <dd>David Porfirio, <i>Laura Stegner</i>, Maya Cakmak, Allison Sauppé, Aws Albarghouthi, Bilge Mutlu</dd>
 <dd><a href="https://arxiv.org/pdf/2302.03088.pdf" target="_blank" >PDF</a> - <a href="" target="_blank" >Video</a> - <a href="" target="_blank" >Presentation</a> - <a href="https://github.com/Wisc-HCI/Tabula" target="_blank" >Github</a> - <a href="https://osf.io/jktph/" target="_blank">OSF</a></dd>
