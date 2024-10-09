@@ -1,9 +1,11 @@
 ## About Me
-I am a PhD candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a>. I am broadly interested in robot control and programming interfaces, studying human needs, and developing robot applications that meet them. My current research applies these ideas to the domain of care robots to assist older adults. I publish my work at HRI and HCI (CHI, DIS) venues.
+I am a PhD Candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a> researching Human-Robot Interaction with a focus on healthcare contexts. My research goal is to design, build, and evaluate intelligent systems that can support complex tasks in everyday environments. I take an interdisciplinary approach to my work, utilizing qualitative, quantitative, and technical approaches from across computer science, engineering, social science, nursing, and design disciplines. I publish my work at HRI and HCI (CHI, DIS) venues.
 
 Before grad school, I earned my Bachelor of Science in Electrical Engineering from the University of Cincinnati in 2019. Part of our degree program included five co-operative education experiences, exposing me to a variety of industry and research positions.
 
 In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institute for Software Systems in Germany, supervised by Aman Mathur and Dr. Rupak Majumdar. We developed <a href="https://library.oapen.org/bitstream/handle/20.500.12657/48217/9783030715007.pdf?sequence=1#page=184" target="_blank">Paracosm</a>, a test framework for autonomous driving simulations, published at FASE 2021.
+
+I am seeking tenure-track faculty positions, post-doctoral fellowships, and other full-time researcher opportunities!
 
 ***
 
@@ -14,6 +16,9 @@ In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institu
     </li>
     <li>
         <strong>Jun 2024</strong> - Returning to the Naval Research Lab for another internship with Dr. Laura Hiatt!
+    </li>
+    <li> 
+        <strong>May 2024</strong> - Honored to be named a recipient of the Cisco Distinguished Graduate Fellowship for the 2024-25 academic year. 
     </li>
     <li>
         <strong>May 2024</strong> - Extremely proud of undergraduate researchers Mary Kristjanson and Shanshan Li for presenting their work at the UW Undergraduate Research Symposium!
