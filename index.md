@@ -1,5 +1,7 @@
 ## About Me
-I am a PhD Candidate at the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a> researching Human-Robot Interaction with a focus on healthcare contexts. My research goal is to design, build, and evaluate intelligent systems that can support complex tasks in everyday environments. I take an interdisciplinary approach to my work, utilizing qualitative, quantitative, and technical approaches from across computer science, engineering, social science, nursing, and design disciplines. I publish my work at HRI and HCI (CHI, DIS) venues.
+I am a Cisco Distinguished Graduate Fellow and 6th year PhD Candidate in the University of Wisconsin–Madison in the <a href="https://peopleandrobots.wisc.edu/" target="_blank">People and Robots Laboratory</a>. My research is at the intersection of Human-Computer Interaction (HCI), Human-Robot Interaction (HRI), Healthcare. Motivated by global challenges posed by increasing caregiver shortages, I seek to design, build, and evaluate intelligent systems (e.g., robots) that support complex tasks in healthcare environments. My dissertation investigates the specific use case of integrating care robots into assisted living facilities. My work makes scientific contributions of new methods, tools, systems, and knowledge, and I also engage the local community to bring robots into the real world.
+    
+My research is published in top-tier international conferences for HCI and robotics (\eg{} CHI, HRI, DIS). My work and impact are also recognized through awards such as an NSF Graduate Research Fellowship and have been showcased at premiere forums such as the Heidelberg Laureate Forum. 
 
 Before grad school, I earned my Bachelor of Science in Electrical Engineering from the University of Cincinnati in 2019. Part of our degree program included five co-operative education experiences, exposing me to a variety of industry and research positions.
 
@@ -12,6 +14,12 @@ I am seeking tenure-track faculty positions, post-doctoral fellowships, and othe
 ### Recent News
 <ul class="less_space">
     <li>
+            <strong>Nov 2024</strong> - Wonderful visit to George Washington University, hosted by Dr. Chung Hyuk Park.
+        </li>
+    <li>
+            <strong>Nov 2024</strong> - Co-organized the <a href="https://sites.google.com/view/aaai-ur-rad-symposium" target="_blank">2024 AAAI Fall Symposium on Unifying Representations for Robot Application Development</a>.
+        </li>
+    <li>
         <strong>Jul 2024</strong> - Amazing week as a student volunteer at DIS '24 in Copenhagen: co-organized the <a href="https://sites.google.com/wisc.edu/robocaredesign" target="_blank">RoboCare Design Workshop</a>, co-presented our <a href="https://dl.acm.org/doi/pdf/10.1145/3643834.3660721" target="_blank">evaluation of Tabula</a>, and cheered Yaxin Hu as she presented our <a href="https://dl.acm.org/doi/pdf/10.1145/3643834.3660710" target="_blank">work on designing for remote tele-experience for older adults</a>.
     </li>
     <li>
@@ -20,13 +28,13 @@ I am seeking tenure-track faculty positions, post-doctoral fellowships, and othe
     <li> 
         <strong>May 2024</strong> - Honored to be named a recipient of the Cisco Distinguished Graduate Fellowship for the 2024-25 academic year. 
     </li>
-    <li>
-        <strong>May 2024</strong> - Extremely proud of undergraduate researchers Mary Kristjanson and Shanshan Li for presenting their work at the UW Undergraduate Research Symposium!
-    </li>
 </ul>
 <details style="margin-left: 28px;" class="less_space">
 <summary>Older News</summary>
     <ul style="margin-left: -28px;">
+        <li>
+        <strong>May 2024</strong> - Extremely proud of undergraduate researchers Mary Kristjanson and Shanshan Li for presenting their work at the UW Undergraduate Research Symposium!
+        </li>
         <li>
             <strong>May 2024</strong> - Virtual talk at National University of Singapore, hosted by Dr. Harold Soh.
         </li>
@@ -88,7 +96,7 @@ Please refer to <a href="https://scholar.google.com/citations?user=tyrrNiAAAAAJ"
 
 <img class="center_img" style="width: 100%;" src="./assets/img/spd.png" alt="robot" />
 
-### Assistive Robots for Older Adults
+### Understanding Care Needs
 
 The combination of a rapidly aging population and growing shortage of caregivers had led to the rise in interest for assistive robots to help care for older adults and other vulnerable populations. This work seeks to understand how care robots can integrate into existing caregiving ecosystems. By understanding the needs and challenges of the end users, we can design, implement, and deploy more robust systems that have real-world use and validity.
 
@@ -106,7 +114,7 @@ The combination of a rapidly aging population and growing shortage of caregivers
 
 <img class="center_img" style="width: 100%;" src="./assets/img/tabula-teaser.jpg" alt="robot" />
 
-### Novel Programming Interfaces
+### Building Novel End-User Programming Interfaces
 
 As robots become more commonly used in everyday scenarios, a wide range of individuals will need appropriate tools to easily and efficiently create programs that specify what their robot should do or how it should behave. This work seeks to make programming human robot interactions more natural for non-roboticists by employing programming language techniques, such as program synthesis, to translate multimodal user input into a full robot program.
 
