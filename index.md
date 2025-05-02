@@ -7,13 +7,29 @@ Before grad school, I earned my Bachelor of Science in Electrical Engineering fr
 
 In the summers of 2018 and 2019, I worked as an intern at the Max Planck Institute for Software Systems in Germany, supervised by Aman Mathur and Dr. Rupak Majumdar. We developed <a href="https://library.oapen.org/bitstream/handle/20.500.12657/48217/9783030715007.pdf?sequence=1#page=184" target="_blank">Paracosm</a>, a test framework for autonomous driving simulations, published at FASE 2021.
 
-I am seeking tenure-track faculty positions, post-doctoral fellowships, and other full-time researcher opportunities!
+I have successfully defended my dissertation, and I am excited to begin my next position as Assistant Professor in Mechanical and Aerospace Engineering at the George Washington University! Stay tuned for more updates.
 
 ***
 
 ### Recent News
 <ul class="less_space">
     <li>
+            <strong>May 2025</strong> - Successfully defended my PhD Dissertation!
+        </li>
+    <li>
+            <strong>Apr 2025</strong> - Wonderful visits to HRI labs near Denver! Dr. Brad Hayes at CU Boulder and Dr. Tom Williams at Mines.
+        </li>
+    <li>
+            <strong>Apr 2025</strong> - Honored to attend the 2025 CRA-WP Grad Cohort for Women in Denver, CO and present my research!
+        </li>
+        <li>
+            <strong>Mar 2025</strong> - Incredibly excited to accept a faculty position at GW MAE starting Fall 2025!
+        </li>
+</ul>
+<details style="margin-left: 28px;" class="less_space">
+<summary>Older News</summary>
+    <ul style="margin-left: -28px;">
+            <li>
             <strong>Nov 2024</strong> - Wonderful visit to George Washington University, hosted by Dr. Chung Hyuk Park.
         </li>
     <li>
@@ -28,10 +44,6 @@ I am seeking tenure-track faculty positions, post-doctoral fellowships, and othe
     <li> 
         <strong>May 2024</strong> - Honored to be named a recipient of the Cisco Distinguished Graduate Fellowship for the 2024-25 academic year. 
     </li>
-</ul>
-<details style="margin-left: 28px;" class="less_space">
-<summary>Older News</summary>
-    <ul style="margin-left: -28px;">
         <li>
         <strong>May 2024</strong> - Extremely proud of undergraduate researchers Mary Kristjanson and Shanshan Li for presenting their work at the UW Undergraduate Research Symposium!
         </li>
