@@ -2217,7 +2217,7 @@ input, select, textarea {
 
 /* Icon */
 
-	.icon {
+	.icon .fa-brands{
 		text-decoration: none;
 		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
